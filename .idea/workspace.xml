@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ca769fe-bcc3-42f5-bf9b-a4686a4b461d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ipi-java-350-ex-master/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ipi-java-350-ex-master/.travis.yml" afterDir="false" />
-    </list>
+    <list default="true" id="2ca769fe-bcc3-42f5-bf9b-a4686a4b461d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ipi-java-350-ex-master/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -94,12 +92,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552040198495</updated>
-      <workItem from="1552040199736" duration="39000" />
+      <workItem from="1552040199736" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39000" />
+    <option name="totallyTimeSpent" value="174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="438" y="31" width="868" height="817" extended-state="0" />
@@ -141,8 +139,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ipi-java-350-ex-master/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
