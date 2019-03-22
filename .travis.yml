@@ -1,9 +1,8 @@
-language : java
+language: java
 
-addons :
-  sonarcloud :
-    oraganization : "severinevieu-github"
-
+addons:
+  sonarcloud:
+    organization: "severinevieu-github"
 
 script:
-  - mvn clean org.jacoco:jacoco-maven-pluging:prepare-agent package sonar:sonar - Dsonar.projectKey=severinevieu_350
+  - mvn org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar -Dsonar.projectKey=severinevieu_350
