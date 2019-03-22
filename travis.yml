@@ -1,0 +1,10 @@
+language : java
+
+addons :
+  sonarcloud :
+    oraganization : "severinevieu-github"
+
+
+    script:
+      - mvn clean org.jacoco:jacoco-maven-pluging:prepare-agent package sonar:sonar
+      - Dsonar.projectKey=severinevieu_350
